@@ -1,0 +1,21 @@
+{
+  "name": "ebook-sales-app",
+  "version": "1.0.0",
+  "description": "App selling ebooks",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Stefanos Leventis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "stripe": "^8.39.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
