@@ -1,0 +1,14 @@
+{
+  "name": "ex02-base64-auth",
+  "version": "1.0.0",
+  "description": "SHA-FSP homework node-js week-03 exercise-02 - Base64 Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DOT.NOT",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

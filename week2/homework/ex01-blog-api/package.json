@@ -1,0 +1,14 @@
+{
+  "name": "ex01-blog-api",
+  "version": "1.0.0",
+  "description": "SHA-FSP homework node-js week-02 exercise-01 - Blog API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DOT.NOT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

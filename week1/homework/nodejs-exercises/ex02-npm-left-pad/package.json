@@ -1,0 +1,14 @@
+{
+  "name": "ex02-npm-left-pad",
+  "version": "1.0.0",
+  "description": "SHA-FSP homework node-js week-01 exercise-02",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DOT.NOT",
+  "license": "ISC",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
