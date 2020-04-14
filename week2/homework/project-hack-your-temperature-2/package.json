@@ -1,0 +1,17 @@
+{
+  "name": "project-hack-your-temperature-2",
+  "version": "1.0.0",
+  "description": "SHA-FSP homework node-js week-02 - PROJECT: HackYourTemperature II",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "DOT.NOT",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0"
+  }
+}
